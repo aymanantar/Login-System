@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652536196 source:c:\users\compu city\desktop\ass 3\log\main.cpp
+	<iostream>
+	<regex>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
